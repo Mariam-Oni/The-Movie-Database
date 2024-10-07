@@ -1,0 +1,1 @@
+The movie database TMDB contains information on 10,866 movies and 21 columns, covering various aspects such as popularity, budget, revenue, genres, release year, and more. The objective of this comprehensive analysis is to explore the dataset, uncover insights, and provide actionable recommendations for stakeholders in the movie industry. 
